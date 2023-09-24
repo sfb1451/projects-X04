@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-					
+# bold indicates required						
+name	X04_WP1a					
+title	Interactive effects of response and conflict expectations					
+description	This dataset of X04 work package 1a, comprises behavourial read-outs (manual response times) for a combined motor cueing - conflict paradigm from n=31 healthy young volunteers. These data shall reveal crucial insights into common mechanisms of expectation-dependent motor prepatation/re-programming and conflict resolution					
+crc-project	X04					
+version	latest					
+sample[organism]	NCBITaxon:9606					
+sample[organism-part]	UBERON:0008785	UBERON:0000955				
+keywords	prediction	re-programming	cueing	flanker stimuli		
+license						
+doi						
+homepage						
+last-updated	2023-08-01 00:00:00					
