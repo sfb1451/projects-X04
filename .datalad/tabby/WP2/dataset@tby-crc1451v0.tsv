@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-							
+# bold indicates required								
+name	X04_WP2							
+title	Interactive effects of response and conflict expectations: the role of STN-cortex interactions							
+description	This dataset of X04 work package 2, comprises behavourial read-outs (manual response times) as well as EEG data (n=17) or EEG plus LFP data from the subthalamic nucleus (STN) (n=10) for a combined motor cueing - conflict paradigm from Parkinson's Disease patients receiving deep brain stimulation (DBS) of the STN. The patients were tested twice (on and off DBS), with order counterbalanced. These data shall reveal crucial insights into STN-cortex interactions for expectation-dependent motor prepatation/re-programming and conflict resolution.							
+crc-project	X04							
+version	latest							
+sample[organism]	NCBITaxon:9606							
+sample[organism-part]	UBERON:0008785	UBERON:0000955	UBERON:0001906					
+keywords	prediction	re-programming	cueing	flanker stimuli	response time	deep brain stimulation	subthalamic nucleus	EEG
+license								
+doi								
+homepage								
+last-updated	2024-03-25 00:00:00							
